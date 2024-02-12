@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../OSLab"
+		},
+		{
+			"path": "../../NETFLIX"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebDev"
+	}
+}
