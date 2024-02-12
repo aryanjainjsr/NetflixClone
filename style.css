@@ -15,7 +15,7 @@ body{
 
 
 .main{
-    background-image: url(/NetflixClone/assets/imagews/FBGNetflix.jpg);
+    background-image: url(/assets/imagews/FBGNetflix.jpg);
     height: 100vh;
     position: relative;
     background-size: max(1200px,100vw);
